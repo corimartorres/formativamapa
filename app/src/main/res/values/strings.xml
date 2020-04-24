@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mapa</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="mapa">MAPA</string>
+    <string name="digite_latitud">Digite Latitud</string>
+    <string name="digite_longitud">Digite Longitud</string>
+    <string name="digite_zoom">Digite Zoom:</string>
+    <string name="escriba_etiqueta">Escriba Etiqueta</string>
+    <string name="buscar_ubicaci_n">Buscar Ubicación</string>
+    <string name="ver_mapa">Ver Mapa</string>
+    <string name="longitud">Longitud:</string>
+    <string name="latitud">Latitud:</string>
+    <string name="zoom">Zoom:</string>
+    <string name="escriba_entre_1_y_23">Escriba entre 1 y 23</string>
+    <string name="etiqueta">Etiqueta:</string>
+    <string name="presione_el_marcador_para_ver_la_etiqueta">Presione el marcador para ver la etiqueta</string>
+</resources>
